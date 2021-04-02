@@ -13,7 +13,10 @@ This Application include backend as well forntent(server side rendering)
 > All the configuration is available in .env file
 
 ## Run application using
-
+```bash
+npm install 
+# or 
+yarn install
 ```bash
 npm run dev
 # or
